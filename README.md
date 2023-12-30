@@ -1,6 +1,6 @@
 # Juxt Studio
 
-An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows.
+An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows. (Runs fully on the edge - without backend server)
 
 ## Overview
 
