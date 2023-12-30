@@ -1,10 +1,10 @@
 # Juxt Studio
 
-An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows. (Runs fully on the edge - without backend server)
+An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows. (Runs fully on the edge - without backend server).
 
 ## Overview
 
-The project was initialized using `create-next-app` on Dec 25, 2023. A public beta link will be dropping on December 31, 2023.
+The project is the second rebuilt; it was initialized using `create-next-app` on Dec 25, 2023. A public beta link will be dropping on December 31, 2023.
 
 ## Features
 
