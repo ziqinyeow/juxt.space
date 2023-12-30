@@ -2,6 +2,10 @@
 
 An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows.
 
+## Overview
+
+The project was initialized using `create-next-app` on Dec 25, 2023. A public beta link will be dropping on December 31, 2023.
+
 ## Features
 
 - Modern, Sleek & Fast User Interface Build Using Next.js
@@ -15,5 +19,13 @@ An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows.
 - ByteTrack + BotSORT in the Browser (JS)
 - Ported Runtime: ONNXRuntime + WASMRuntime (Rust -> JS)
 - 17 Key Points Per Person + Bounding Boxes Displayed by Custom Video Canvas
+- Responsive Video Canvas With Auto Keypoint + Skeleton + Any Object Scaling
 - Real-Time Body Parts (Nose, Eye, Knee, ...) + Person Of Interest Toggler While Playing Video
 - Accurate Per-Frame Operation Video Player Seeker Sync Perfectly With Canvas
+- Configurable Playback Speed + FPS Seeker + Theatre Mode
+- Real-Time Kinematics Metrics (Angle, Displacement, ...) Calculations + Displayed in Line Graph
+- Stream Data Points Linked with Apache EChart Straight While Playing Video
+
+## Conclusion
+
+Star it till I open-source it.
