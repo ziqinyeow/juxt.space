@@ -25,6 +25,7 @@ The project is the second rebuilt; it was initialized using `create-next-app` on
 - Configurable Playback Speed + FPS Seeker + Theatre Mode
 - Real-Time Kinematics Metrics (Angle, Displacement, ...) Calculations + Displayed in Line Graph
 - Stream Data Points Linked with Apache EChart Straight While Playing Video
+- Per-Frame Keypoints Rectification to Update Real-Time Graph
 
 ## Conclusion
 
