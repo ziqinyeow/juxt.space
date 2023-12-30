@@ -6,6 +6,8 @@ An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows. (
 
 This project is the second rebuilt (3rd time build); it was initialized using `create-next-app` on Dec 25, 2023. A public beta link will be dropping on December 31, 2023.
 
+The public beta link is about 30% of the features. Join the waitlist.
+
 ## Features
 
 - Modern, Sleek & Fast User Interface Build Using Next.js
