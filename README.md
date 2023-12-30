@@ -29,4 +29,4 @@ This project is the second rebuilt (3rd time build); it was initialized using `c
 
 ## Conclusion
 
-Star it till I open-source it.
+Star it till I open-source it. Plan is to open-source it to Vercel Template.
