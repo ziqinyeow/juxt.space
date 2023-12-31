@@ -10,6 +10,17 @@ This project is the second rebuilt (3rd time build); it was initialized using `c
 
 The public beta link is about 30% of the features. Join the waitlist.
 
+<div align="center">
+  <p>
+    <a align="center" href="" target="_blank">
+      <img
+        width="850"
+        src="./assets/demo.png"
+      >
+    </a>
+  </p>
+</div>
+
 ## Features
 
 - Modern, Sleek & Fast User Interface Build Using Next.js
