@@ -25,7 +25,7 @@ The public beta link is about 30% of the features. Join the waitlist.
 
 ## Features
 
-- Modern, Sleek & Fast User Interface Build Using Next.js
+- Modern, Sleek & Fast User Interface Build Using Next.js 14
 - Minimalist Styled by Shadcn/ui + Tailwind
 - Resizable Side Tab (Size Stored In Cookies) + Sonner Toaster + Command Palette + Keybindings
 - Files/Folders Dropzone + Recursive Media Files Filtering + Store Into Browser Indexed DB
@@ -46,4 +46,4 @@ The public beta link is about 30% of the features. Join the waitlist.
 
 ## Conclusion
 
-Star it till I open-source it. Plan is to open-source it to Vercel Template.
+Star it till I open-source it. The plan is to open-source it to Vercel Template.
