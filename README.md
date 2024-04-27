@@ -12,16 +12,8 @@ Link dropped: [https://beta.juxt.space](https://beta.juxt.space)
 
 The public beta link is about 30% of the features. Join the waitlist.
 
-<div align="center">
-  <p>
-    <a align="center" href="" target="_blank">
-      <img
-        width="850"
-        src="./assets/demo.png"
-      >
-    </a>
-  </p>
-</div>
+![landing page](https://github.com/ziqinyeow/juxt-minified/raw/main/public/landing.png)
+
 
 ## Features
 
