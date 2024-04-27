@@ -41,4 +41,4 @@ The public beta link is about 30% of the features. Join the waitlist.
 Star it till I open-source it. The plan is to open-source it to Vercel Template.
 
 ## Sneak Peak
-![landing page](https://github.com/ziqinyeow/juxt-minified/raw/main/public/chart.png)
+![landing page](https://github.com/ziqinyeow/juxt.space/raw/main/assets/chart.png)
