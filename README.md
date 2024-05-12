@@ -1,6 +1,6 @@
-# Juxt Space
+# Juxt Space 
 
-An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows. (Runs fully on the edge - without backend server).
+An Ultra Fast Pose Estimation App aims to accelerate sport analysis workflows. (Runs with FastAPI executable as Tauri Sidecar).
 
 ## Overview
 
