@@ -14,6 +14,17 @@ The public beta link is about 30% of the features. Join the waitlist.
 
 ![landing page](https://github.com/ziqinyeow/juxt-minified/raw/main/public/landing.png)
 
+## Tech Stacks
+
+1. Frontend: React & Vite
+2. Styling: Tailwind, shadcn
+3. Video Processing: MediaInfo wasm + React Player + Fabric JS
+4. State Management + File Storage: Zustand + IndexedDB
+5. Backend: FastAPI (Compiled with ONNX GPU Runtime using Pyinstaller)
+6. Object Detection + Pose Estimation SDK: juxtapose
+7. Pose Analysis: juxtematics
+8. Desktop: Tauri (Github Actions to auto port React app to Windows/Mac/Ubuntu Installer)
+
 
 ## Features
 
